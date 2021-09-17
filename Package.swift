@@ -27,6 +27,7 @@ let package = Package(
                 "secp256k1/src/tests.c",
                 "secp256k1/src/valgrind_ctime_test.c",
                 "secp256k1/src/gen_context.c",
+                "secp256k1/src/gen_ecmult_static_pre_g.c",
                 "secp256k1/src/bench_ecdh.c",
                 "secp256k1/src/bench_ecmult.c",
                 "secp256k1/src/bench_internal.c",
